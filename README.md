@@ -13,4 +13,5 @@
 ## Demo
 To show the benefits of using this metaphor, a small house scenario has been designed, to see a potential application of the technique that helps the user with interactions that are physically complicated.
 
-![](https://github.com/victorperezpiqueras/VIVE_WorldInMiniature/demo/demo.gif)
+ 
+<img src="demo/wim_demo.gif" title="Preview"/>
